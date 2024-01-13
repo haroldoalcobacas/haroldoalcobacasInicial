@@ -37,4 +37,5 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/haroldoalcobacas/haroldoalcobacas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=haroldoalcobacas&repo=haroldoalcobacas&theme=react)](https://github.com/haroldoalcobacas/haroldoalcobacas)
 
