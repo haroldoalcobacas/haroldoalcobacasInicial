@@ -1,13 +1,12 @@
 ### Olá sou Haroldo Alcobaças 👋
  
 <!--
-**haroldoalcobacas/haroldoalcobacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**haroldoalcobacas/haroldoalcobacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
-- 🔭 Atualemnte trabalho como analista de eficiência operacional (Qualidade e Processos)
-- 🌱 Cursando Engenharia de SoftWare e me dedicando ao apredendizado de Data Science e Machine Learning
--->
+🔭 Atualemnte trabalho como analista de eficiência operacional (Qualidade e Processos)
+🌱 Cursando Engenharia de SoftWare e me dedicando ao apredendizado de Data Science e Machine Learning
+
 
 <div align="Rigth">
   <a href="https://github.com//haroldoalcobacas">
