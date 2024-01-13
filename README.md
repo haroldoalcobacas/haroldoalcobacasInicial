@@ -4,8 +4,8 @@
 **haroldoalcobacas/haroldoalcobacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
- -🔭 Atualmente trabalho como analista de eficiência operacional (Qualidade e Processos);
- -🌱 Cursando Engenharia de SoftWare e me dedicando ao apredendizado de Data Science e Machine Learning;
+ - 🔭 Atualmente trabalho como analista de eficiência operacional (Qualidade e Processos);
+ - 🌱 Cursando Engenharia de Software e me dedicando ao apredendizado de Data Science e Machine Learning;
 
 
 <div align="Rigth">
