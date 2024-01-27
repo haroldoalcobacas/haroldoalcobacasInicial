@@ -5,7 +5,7 @@
 
 
  - 🔭 Atualmente trabalho como analista de eficiência operacional (Qualidade e Processos);
- - 🌱 Cursando Engenharia de Software e me dedicando ao apredendizado de Data Science e Machine Learning;
+ - 🌱 Cursando Engenharia de Software e me dedicando ao apredendizado desenvolvimento Web com Python e Django, além de Data Science e Machine Learning;
 
 
 <div align="Rigth">
