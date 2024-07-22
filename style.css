@@ -238,7 +238,7 @@ section.especialidades .flex{
     color: #726c6c;
     padding: 70px;
     border-radius: 20px;
-    margin-top: 30px; 
+    margin-top: 90px; 
     transition: .5s;
 }
 
@@ -264,8 +264,8 @@ section.especialidades .flex{
 /* ---------------------Estilo Sobre Mim------------------------- */
 
 section.sobre-mim{
-    padding: 30px 4%;
-    margin-top: 30px; 
+    padding: 10px 4%;
+    margin-top: 90px; 
     height: 100vh;
 }
 
