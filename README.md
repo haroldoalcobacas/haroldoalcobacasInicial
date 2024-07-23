@@ -4,8 +4,12 @@
 **haroldoalcobacas/haroldoalcobacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
- - 🔭 Atualmente trabalho como analista de eficiência operacional (Qualidade e Processos);
- - 🌱 Cursando Engenharia de Software e me dedicando ao apredendizado desenvolvimento Web com Python e Django, além de Data Science e Machine Learning;
+ - 🔭 Em processo de migração de carreira para tecnologia.
+ - 🌱 Apaixonado por tecnologia e otimização de processos, cursando engenharia de Software e com habilidades em programação, experiência com ferramentas de gestão
+    e análise de dados, como Power BI e desenvolvimento de aplicativos Low-code com PowerApps e automação RPA, PowerAutomate e UiPath.
+
+               • Python • Django • Java • Spring • MySQL • SQL Server • PostgreSQL • MongoDB • GitHub • Docker • UiPath • PowerAutomate
+
 
 
 <div align="Rigth">
