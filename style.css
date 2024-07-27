@@ -38,7 +38,7 @@ button:hover {
 }
 
 h2.titulo-temas {
-    color: #57606f;
+    color: #726c6c;
     font-size: 33px;
     text-align: center;
     margin-top: 10px;
@@ -173,7 +173,7 @@ header nav.menu-desktop ul li {
 /* ----------------- Estilo do Topo do Site ---------------- */
 section.topo-do-site {
     padding: 95px 5%;
-    height: 95vh;
+    height: 90vh;
     
     
 }
