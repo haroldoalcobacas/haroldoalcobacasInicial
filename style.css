@@ -481,7 +481,7 @@ footer .line-footer p{
     }
 }
 
-@media screen and (max-width: 964px) {
+@media screen and (max-width: 964,1px) {
     /* Ajustes adicionais para telas menores */
     header .menu-desktop{
         display: none;
