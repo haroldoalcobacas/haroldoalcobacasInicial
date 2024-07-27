@@ -65,54 +65,24 @@ h2.titulo-temas span {
 
 /* ----------- Estilo do cabeçalho ----------------- */
 header {
-    width: 100%;
     background-color: #e0e0e0;
-    padding: 20px 4%;    
+    padding: 8px 4%;
+    
 }
 
 header .interface {
     display: flex;
-    align-items: center; 
-    justify-content: space-between; 
-    font-size: 22px;    
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
 }
 
-header .logo {
-    flex: 0 1 auto; 
-}
-
-header .menu-desktop {
-    flex: 1; 
+header .menu-desktop{
+    flex:1;
     display: flex;
-    justify-content: center; 
+    justify-content: center;
 }
 
-header nav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center; 
-}
-
-header nav ul li {     
-    margin: 0 20px; 
-    padding: 10px 20px;
-}
-
-header .btn-contato {
-    flex: 0 1 auto; 
-    display: flex;
-    justify-content: flex-end; 
-}
-
-header .btn-contato a {
-    display: flex; 
-}
-
-header .btn-contato button {
-    display: inline-flex; 
-}
 
 header a {
     color: #838485;
@@ -121,15 +91,21 @@ header a {
     font-weight: bold;
 }
 
-header .logo img {
-    max-width: 130px;   
-}
-
 header .menu-desktop a:hover {
     color: #FF7629;
     transform: scale(1.15);
     transition: .5s;
 }
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav.menu-desktop ul li {
+    display: inline-block;
+    padding: 0 40px;
+}
+
 /* ---------- Estilo menu Mobile ----------------- */
 .btn-abrir-menu i {
     color: #FF7629;
@@ -424,7 +400,7 @@ footer .line-footer p{
 }
 
 
-/* Layout Responsivo */
+/* --------Layout Responsivo ---------*/
 @media screen and (max-width: 1020px) {
     /* Classes Gerais */
     .flex {
@@ -507,6 +483,9 @@ footer .line-footer p{
 
 @media screen and (max-width: 768px) {
     /* Ajustes adicionais para telas menores */
+    header .menu-desktop{
+        display: none;
+    }
     section.topo-do-site {
         height: auto;
     }
